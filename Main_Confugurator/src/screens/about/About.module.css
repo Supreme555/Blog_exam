@@ -1,0 +1,16 @@
+.about {
+    margin-top: 40px;
+}
+.abouttext {
+    background-image: url('../../assets/images/aboutus.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 560px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    padding: 40px 100px;
+    color: #f0f0f0;
+    font-size: 26px;
+}
